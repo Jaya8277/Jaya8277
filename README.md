@@ -1,6 +1,7 @@
+<img src="https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966" alt="coding">
 <h1 align="center">Hi 👋, I'm Jaya Vishwakarma</h1>
 <h3 align="center">A passionate MERN developer</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya8277&label=Profile%20views&color=0e75b6&style=flat" alt="jaya8277" /> </p>
 
