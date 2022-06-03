@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN Backend**
+- 💬 Ask me about **MERN Full-Stack Developer**
 
 - 📫 How to reach me **Jayavish423@gmail.com**
 
