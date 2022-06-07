@@ -2,25 +2,30 @@
 <h1 align="center">Hi 👋, I'm Jaya Vishwakarma</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
+ 
+<h1 dir="auto"><a id="user-content-about-me-" class="anchor" aria-hidden="true" href="#about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="dizzy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ab.png">💫</g-emoji>About Me :</h1>
+<img align="right" height="220" width="220" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding" >
+<pre class="notranslate"><code>👋 Hello, Welcome to my profile
+-🌱 I’m currently looking for an opportunity as a MERN Stack developer
+- 🔭 I’m currently working on **I’m currently working on Frontend Masters Clone**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **MERN Full-Stack Developer**
+- 📫 How to reach me **Jayavish423@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13SCy0zB_p4JUu--GBBP6HHDqGKhdBqPz/view">Resume</a>
+- ⚡ Fun fact **Coding**
+- 🔥 PortFolio <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/Jaya8277/Jaya8277/blob/main/pngfind.com-portfolio-png-6510056.png?raw=true" alt="PortFolio" height="30" width="40" /></a>
+</code></pre>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaya8277&label=Profile%20views&color=0e75b6&style=flat" alt="jaya8277" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaya8277" alt="jaya8277" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on Frontend Masters Clone**
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN Full-Stack Developer**
 
-- 📫 How to reach me **Jayavish423@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14ZKRYH27T_mFWc_jAv7TRwVn-pL9tPY4pd2BV1q4_-g/edit](https://docs.google.com/document/d/14ZKRYH27T_mFWc_jAv7TRwVn-pL9tPY4pd2BV1q4_-g/edit)
 
-- ⚡ Fun fact **Coding**
-- 🔥 PortFolio <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/Jaya8277/Jaya8277/blob/main/pngfind.com-portfolio-png-6510056.png?raw=true" alt="PortFolio" height="30" width="40" /></a>
-
-<img align="right" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="coding">
 
 
 <h3 align="left">Connect with me:</h3>
