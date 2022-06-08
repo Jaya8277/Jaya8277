@@ -13,7 +13,7 @@
 - 📫 How to reach me **Jayavish423@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/13SCy0zB_p4JUu--GBBP6HHDqGKhdBqPz/view">Resume</a>
 - ⚡ Fun fact **Coding**
-- 🔥 PortFolio <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/Jaya8277/Jaya8277/blob/main/pngfind.com-portfolio-png-6510056.png?raw=true" alt="PortFolio" height="30" width="40" /></a>
+- 🔥 PortFolio <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank">https://jaya-vishwakarma-portfolio.netlify.app/</a>
 </code></pre>
 
 
