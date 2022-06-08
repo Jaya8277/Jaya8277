@@ -19,8 +19,6 @@
 
 - 🔭 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **MERN Full-Stack Developer**
 
 - 📫 How to reach me **Jayavish423@gmail.com**
