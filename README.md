@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/vis31164412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vis31164412" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaya-vishwakarma-312418225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaya-vishwakarma-312418225/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jaya_vish_098/?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaya_vish_098/?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/jaya.v_/?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jaya_vish_098/?igshid=ymmymta2m2y=" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@jayavish143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@jayavish143" height="30" width="40" /></a>
 </p>
 
