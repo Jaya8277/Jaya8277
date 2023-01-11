@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Jayavish423@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13SCy0zB_p4JUu--GBBP6HHDqGKhdBqPz/view">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1OOexc65OyfRNpMws5bBOze-4RSQmUgr2?usp=share_link">Resume</a>
 
 - 🔥 PortFolio <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank">https://jaya-vishwakarma-portfolio.netlify.app/</a>
 <!-- - 🔥 PortFolio_1 <a href="https://jaya-vish-portfolio.netlify.app/" target="blank">https://jaya-vish-portfolio.netlify.app/</a> -->
