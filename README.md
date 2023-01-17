@@ -43,7 +43,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaya8277" alt="jaya8277" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaya8277&show_icons=true&locale=en&layout=compact" alt="jaya8277" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jaya8277&show_icons=true&locale=en" alt="jaya8277" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaya8277&show_icons=true&locale=en"  alt="jaya8277" width="400" /></p>
 
