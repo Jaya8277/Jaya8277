@@ -15,7 +15,7 @@
 - 🥅 2024 Goals: Learn Cloud on AWS and Azure.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 How to reach me **Jayavish423@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mtWrOfDb7dT_ihrP3hRr927JN4gsEUoe/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lvVlrA34tOMlmW6xLb5kQ8QovtcJp4i7/view?usp=sharing">Resume</a>
 - 🔥 Portfolio: <a href="https://jaya-vishwakarma-portfolio.netlify.app/" target="blank">https://jaya-vishwakarma-portfolio.netlify.app/</a>
 
 ---
